@@ -1,0 +1,84 @@
+Skills
+Sanjulika Sharma
+8700643300
+sanjulika0303@gmail.com
+Sanjulika Sharma
+github.com/sanjulika
+Languages: Python, R, SQL
+Libraries: Pandas, NumPy, Scikit-Learn,
+PyTorch, TensorFlow
+Web Frameworks: Flask, FastAPI
+Version Control: Git, GitHub, GitLab
+Tools Excel, Power BI, Tableau, Streamlit
+Experience
+GeeksForGeeks
+Member of Technical Staff (Data Science)
+Deep Learning & Gen AI: Transfer Learning, Fine-tuning, Hugging Face,
+Transformers, LLMs, LangChain, Stable
+Diffusion,
+Retrieval-Augmented Generation (RAG),
+Multimodal RAG, Agentic RAG
+Cloud: GCP, AWS
+Sep 2023 - Present
+Engineered an AI-powered chatbot for GeeksforGeeks Premium subscribers, leveraging OpenAI's GPT-40-mini in the
+backend. Sentence Transformer was utilized to enhance semantic search capabilities, making the Y.O.G.I. Bot's
+responses more relevant and context-aware. This comprehensive setup helped achieve a 20% increase in user
+engagement among Premium subscribers.
+Developed a premium article summarization feature using a quantized version of Metaʼs LLaMA model, reducing
+inference latency by 35% and enabling real-time processing on resource-constrained devices.
+Built a global search system on the GeeksForGeeks platform, facilitating searches on products through textual queries,
+while replacing Google's ElasticSearch and reducing costs.
+Designed and optimized the content recommendation engine, which personalized article and resource suggestions for
+users, leading to a 15% improvement in user retention and a 25% increase in click-through rates on recommended
+resources.
+Developed a generative AI system to create correct coding solutions for problems on the portal, reducing manual
+efforts significantly. Achieved 88% accuracy in solution generation for 5000+ problems within 2 days, compared to 6
+months of manual effort
+Developed a feedback chatbot to automate the review of submitted articles, reducing review time by up to 50%. The
+bot uses regular expressions and pattern-matching to verify structural elements like H2 and H3 headers, NLP-based word
+count analysis, and rule-based checks to detect promotional links and AI-generated content, automating grammar
+checks, formatting assessments, and error identification. This automation has increased publishing efficiency by 30%
+and enhanced content quality by enforcing consistent standards.
+Isnartech AI
+Artificial Intelligence Intern
+Jun 2023 – Sep 2023
+Built a face generation using GANs and StyleGANs for an attendance-based system to overcome the issue of overfitting
+that lead to the increase in the test accuracy by 12 %.
+Praedico Global Research Pvt. Ltd.
+Neural Network Developer Intern
+Jan 2023 – Jun 2023
+Studied the relationship between 10 major stock indexes of the world to forecast the closing price and volume of Nifty50
+using LSTM, GRU, Bi-LSTM, Bi-GRU.
+Performed hyperparameter tuning using Grid Search and Randomized Search method. a fuzzy logic model to mimic
+human-like behaviour to make investment decisions.
+Education
+Vellore Institute of Technology
+Master of Science in Data Science
+Sharda University
+Bachelor of Science in Mathematics (Honours Degree)
+Projects
+Speech to Speech Model
+2021-2023
+2018-2021
+Developed a machine translation model for English to Hindi Translation using PyTorch and Hugging Face's Transformer
+Library.
+Utilized Helsinki-NLP Opus- MT model (pre-trained model) and tokenizer for sequence-to-sequence tasks.
+Deployed the trained model using Gradio for interactive text translation.
+Model attained a medium BLEU score of 0.406, indicating that the translations were close to the reference translations.
+Project link: Speech-to-Speech Model
+Agentic RAG with Langchain and BM25 Retrieval
+Built a semantic search tool using BM25Retriever and Langchain, enhancing document retrieval from large text
+datasets.
+Utilized Hugging Face's Inference API to deploy large language models for real-time text generation and
+question-answering tasks.
+Created RetrieverTool and integrated smolagents to streamline interactions with models and improve query handling in
+AI workflows.
+Project link: Agentic RAG
+PDF Chat App with GUI
+Developed a GUI-based chat application enabling interactive querying of uploaded PDF files.
+Utilized Streamlit for frontend development and integrated OpenAI's models for backend processing to extract and
+respond to information from PDF documents dynamically.
+Enhanced user engagement by implementing a robust document parsing system and real-time natural language
+processing.
+Achieved seamless integration of complex text analysis and response generation, improving accessibility and interaction
+with document-based information.
