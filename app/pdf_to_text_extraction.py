@@ -83,6 +83,7 @@ def calculate_cer(ground_truth_file, ocr_text_file):
     except Exception as e:
         print(f"An error occurred during CER calculation: {e}")
         return None
+    
 
 def main():
     """Main function to demonstrate OCR and CER calculation."""

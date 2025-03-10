@@ -4,3 +4,4 @@ editdistance
 chromadb
 langchain
 streamlit
+sentence_transformers
